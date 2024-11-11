@@ -5,7 +5,8 @@ My name is Aldy Prastyo, A random people who love to coding for solve a problem.
 - :globe_with_meridians: Fullstack web developer
 - :iphone: Mobile Developer
 - 📝 Maintainer in [Bellshade](https://github.com/bellshade)
-- 🌱 I’m currently learning TO FOCUS
+- 🌱 I am currently learning low level
+- 👨‍🎓 I am student at [Telkom University](https://surabaya.telkomuniversity.ac.id/)
 
 ## 🛠 Tools
 
